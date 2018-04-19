@@ -20,3 +20,4 @@
 ## Ferramentas
 
 -   [Emmet](https://emmet.io/)
+-   [Markdown](https://pt.wikipedia.org/wiki/Markdown)

@@ -1,6 +1,6 @@
-# Atom
+# Comandos
 
-## Comandos no Terminal
+## Terminal
 
 ```sh
 # abre o atom na pasta atual
